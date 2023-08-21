@@ -1,0 +1,5 @@
+{{#user}}
+Name: Jay Ajmera
+Skills: Python, SQL, HTML, CSS
+Email: ajmerajay.ja@gmail.com
+{{/user}}
